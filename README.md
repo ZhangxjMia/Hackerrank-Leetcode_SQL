@@ -5,7 +5,7 @@ There are several steps for me to solve these questions:
 * Step 1: Thinking, write down my ideas
 * Step 2: Trying to solve
 * (If cannot solve) Step 3: Review correct answer
-* Step 4: trying to solve 
+* Step 4: Trying to solve 
 * Step 5: Summary (key points)
 
 ## Hackerrank_SQL
