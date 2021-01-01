@@ -1,5 +1,6 @@
 # HankerrankLeetcode_SQL
 > Contains all the questions that let me think and learn. 
+
 There are several steps for me to solve these questions:
 * Step 1: Thinking, write down my ideas
 * Step 2: Trying to solve
